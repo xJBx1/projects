@@ -1,0 +1,1 @@
+This is my journey to re-learn C++ from scratch, while also exploring some advanced concepts in this language.
